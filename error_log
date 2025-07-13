@@ -1,0 +1,678 @@
+[18-Jun-2025 03:02:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'mundol1_linusmundo7'@'localhost' (using password: YES) in /home/mundol1/public_html/login.php on line 6
+[18-Jun-2025 03:46:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function seession_start() in /home/mundol1/public_html/login.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 2
+[18-Jun-2025 03:46:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function seession_start() in /home/mundol1/public_html/login.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 2
+[18-Jun-2025 03:46:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function seession_start() in /home/mundol1/public_html/login.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 2
+[18-Jun-2025 03:46:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function seession_start() in /home/mundol1/public_html/login.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 2
+[18-Jun-2025 03:48:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function seession_start() in /home/mundol1/public_html/login.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 2
+[18-Jun-2025 03:48:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function seession_start() in /home/mundol1/public_html/login.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 2
+[18-Jun-2025 03:51:51 UTC] PHP Warning:  include(dp.php): failed to open stream: No such file or directory in /home/mundol1/public_html/login.php on line 3
+[18-Jun-2025 03:51:51 UTC] PHP Warning:  include(): Failed opening 'dp.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/login.php on line 3
+[18-Jun-2025 04:01:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mundol1/public_html/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 14
+[18-Jun-2025 04:01:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mundol1/public_html/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 14
+[18-Jun-2025 04:02:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mundol1/public_html/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 14
+[18-Jun-2025 04:05:04 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting ')' in /home/mundol1/public_html/login.php on line 3
+[18-Jun-2025 04:05:07 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting ')' in /home/mundol1/public_html/login.php on line 3
+[18-Jun-2025 04:05:09 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting ')' in /home/mundol1/public_html/login.php on line 3
+[18-Jun-2025 04:05:09 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting ')' in /home/mundol1/public_html/login.php on line 3
+[18-Jun-2025 04:05:13 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting ')' in /home/mundol1/public_html/login.php on line 3
+[18-Jun-2025 04:05:17 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting ')' in /home/mundol1/public_html/login.php on line 3
+[18-Jun-2025 04:05:21 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting ')' in /home/mundol1/public_html/login.php on line 3
+[18-Jun-2025 04:05:24 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting ')' in /home/mundol1/public_html/login.php on line 3
+[18-Jun-2025 04:05:28 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting ')' in /home/mundol1/public_html/login.php on line 3
+[18-Jun-2025 04:06:19 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting ')' in /home/mundol1/public_html/login.php on line 3
+[18-Jun-2025 04:07:01 UTC] PHP Notice:  Undefined variable: error in /home/mundol1/public_html/login.php on line 48
+[18-Jun-2025 04:16:33 UTC] PHP Notice:  Undefined variable: error in /home/mundol1/public_html/login.php on line 48
+[18-Jun-2025 04:16:35 UTC] PHP Notice:  Undefined variable: error in /home/mundol1/public_html/login.php on line 48
+[18-Jun-2025 04:17:10 UTC] PHP Notice:  Undefined variable: error in /home/mundol1/public_html/login.php on line 48
+[18-Jun-2025 04:17:31 UTC] PHP Notice:  Undefined variable: error in /home/mundol1/public_html/login.php on line 48
+[18-Jun-2025 04:18:07 UTC] PHP Notice:  Undefined variable: error in /home/mundol1/public_html/login.php on line 48
+[18-Jun-2025 04:20:46 UTC] PHP Notice:  Undefined variable: error in /home/mundol1/public_html/login.php on line 48
+[18-Jun-2025 04:20:48 UTC] PHP Notice:  Undefined variable: error in /home/mundol1/public_html/login.php on line 48
+[18-Jun-2025 04:21:06 UTC] PHP Notice:  Undefined variable: error in /home/mundol1/public_html/login.php on line 48
+[18-Jun-2025 04:28:00 UTC] PHP Notice:  Undefined variable: error in /home/mundol1/public_html/login.php on line 48
+[18-Jun-2025 04:28:01 UTC] PHP Notice:  Undefined variable: error in /home/mundol1/public_html/login.php on line 48
+[18-Jun-2025 04:28:17 UTC] PHP Notice:  Undefined variable: error in /home/mundol1/public_html/login.php on line 48
+[18-Jun-2025 04:29:05 UTC] PHP Notice:  Undefined variable: error in /home/mundol1/public_html/login.php on line 48
+[18-Jun-2025 04:29:18 UTC] PHP Notice:  Undefined variable: error in /home/mundol1/public_html/login.php on line 48
+[18-Jun-2025 04:30:24 UTC] PHP Notice:  Undefined variable: error in /home/mundol1/public_html/login.php on line 48
+[18-Jun-2025 04:30:26 UTC] PHP Notice:  Undefined variable: error in /home/mundol1/public_html/login.php on line 48
+[18-Jun-2025 04:30:48 UTC] PHP Notice:  Undefined variable: error in /home/mundol1/public_html/login.php on line 48
+[18-Jun-2025 04:41:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mundol1/public_html/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 14
+[18-Jun-2025 04:41:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mundol1/public_html/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 14
+[18-Jun-2025 04:56:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mundol1/public_html/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 14
+[18-Jun-2025 05:03:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mundol1/public_html/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 14
+[18-Jun-2025 05:04:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mundol1/public_html/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 14
+[18-Jun-2025 05:06:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mundol1/public_html/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 14
+[18-Jun-2025 05:06:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mundol1/public_html/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 14
+[18-Jun-2025 05:07:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mundol1/public_html/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 14
+[18-Jun-2025 05:16:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mundol1/public_html/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 14
+[18-Jun-2025 05:31:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mundol1/public_html/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 14
+[18-Jun-2025 06:20:08 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/mundol1/public_html/login.php on line 29
+[18-Jun-2025 06:20:09 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/mundol1/public_html/login.php on line 29
+[18-Jun-2025 07:30:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mundol1/public_html/shop.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/shop.php on line 15
+[18-Jun-2025 07:34:05 UTC] PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /home/mundol1/public_html/shop.php on line 9
+[18-Jun-2025 07:34:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mundol1/public_html/shop.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/shop.php on line 19
+[18-Jun-2025 07:36:17 UTC] PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /home/mundol1/public_html/shop.php on line 9
+[18-Jun-2025 09:16:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_para() on null in /home/mundol1/public_html/cart.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/cart.php on line 8
+[18-Jun-2025 09:22:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/mundol1/public_html/cart.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/cart.php on line 8
+[18-Jun-2025 09:24:27 UTC] PHP Notice:  Undefined index: product_id in /home/mundol1/public_html/cart.php on line 7
+[18-Jun-2025 09:24:27 UTC] PHP Notice:  Undefined variable: stmt in /home/mundol1/public_html/cart.php on line 10
+[18-Jun-2025 09:24:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/mundol1/public_html/cart.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/cart.php on line 10
+[18-Jun-2025 09:26:47 UTC] PHP Notice:  Undefined index: product_id in /home/mundol1/public_html/cart.php on line 7
+[18-Jun-2025 09:26:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mundol1/public_html/cart.php:7) in /home/mundol1/public_html/cart.php on line 28
+[18-Jun-2025 09:28:54 UTC] PHP Notice:  Undefined index: product_id in /home/mundol1/public_html/cart.php on line 7
+[18-Jun-2025 09:28:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mundol1/public_html/cart.php:7) in /home/mundol1/public_html/cart.php on line 28
+[18-Jun-2025 09:34:36 UTC] PHP Notice:  Undefined index: product_id in /home/mundol1/public_html/cart.php on line 7
+[18-Jun-2025 09:34:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mundol1/public_html/cart.php:7) in /home/mundol1/public_html/cart.php on line 28
+[18-Jun-2025 09:34:41 UTC] PHP Notice:  Undefined index: product_id in /home/mundol1/public_html/cart.php on line 7
+[18-Jun-2025 09:34:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mundol1/public_html/cart.php:7) in /home/mundol1/public_html/cart.php on line 28
+[18-Jun-2025 09:54:20 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/mundol1/public_html/cart.php on line 7
+[18-Jun-2025 09:54:24 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/mundol1/public_html/cart.php on line 7
+[18-Jun-2025 09:54:30 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/mundol1/public_html/cart.php on line 7
+[18-Jun-2025 09:55:24 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/mundol1/public_html/cart.php on line 7
+[18-Jun-2025 09:57:03 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/mundol1/public_html/cart.php on line 7
+[18-Jun-2025 09:57:09 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/mundol1/public_html/cart.php on line 7
+[18-Jun-2025 10:01:07 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/mundol1/public_html/cart.php on line 7
+[18-Jun-2025 10:01:11 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/mundol1/public_html/cart.php on line 7
+[18-Jun-2025 15:06:25 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/mundol1/public_html/cart.php on line 7
+[18-Jun-2025 15:18:50 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/mundol1/public_html/cart.php on line 7
+[19-Jun-2025 15:54:29 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/mundol1/public_html/cart.php on line 7
+[22-Jun-2025 21:22:07 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/mundol1/public_html/cart.php on line 7
+[23-Jun-2025 02:09:27 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/mundol1/public_html/cart.php on line 7
+[23-Jun-2025 02:16:31 UTC] PHP Warning:  Use of undefined constant product_id - assumed 'product_id' (this will throw an Error in a future version of PHP) in /home/mundol1/public_html/cart.php on line 21
+[23-Jun-2025 02:16:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mundol1/public_html/cart.php:21) in /home/mundol1/public_html/cart.php on line 28
+[23-Jun-2025 02:26:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mundol1/public_html/cart.php on line 39
+[23-Jun-2025 02:32:49 UTC] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/mundol1/public_html/view_cart.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/view_cart.php on line 56
+[23-Jun-2025 03:59:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mundol1/public_html/process_checkout.php:3) in /home/mundol1/public_html/process_checkout.php on line 12
+[23-Jun-2025 04:02:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mundol1/public_html/process_checkout.php:3) in /home/mundol1/public_html/process_checkout.php on line 12
+[25-Jun-2025 14:29:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on bool in /home/mundol1/public_html/results.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/results.php on line 64
+[25-Jun-2025 14:29:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on bool in /home/mundol1/public_html/results.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/results.php on line 64
+[25-Jun-2025 14:29:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on bool in /home/mundol1/public_html/results.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/results.php on line 64
+[25-Jun-2025 14:31:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on bool in /home/mundol1/public_html/results.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/results.php on line 64
+[25-Jun-2025 14:31:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on bool in /home/mundol1/public_html/results.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/results.php on line 64
+[25-Jun-2025 14:40:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on bool in /home/mundol1/public_html/results.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/results.php on line 65
+[25-Jun-2025 14:41:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on bool in /home/mundol1/public_html/results.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/results.php on line 65
+[25-Jun-2025 14:45:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mundol1/public_html/results.php on line 10
+[25-Jun-2025 14:45:51 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mundol1/public_html/results.php on line 41
+[25-Jun-2025 14:45:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on bool in /home/mundol1/public_html/results.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/results.php on line 65
+[25-Jun-2025 14:46:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mundol1/public_html/results.php on line 10
+[25-Jun-2025 14:46:02 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mundol1/public_html/results.php on line 41
+[25-Jun-2025 14:46:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on bool in /home/mundol1/public_html/results.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/results.php on line 65
+[27-Jun-2025 23:00:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/login.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 3
+[27-Jun-2025 23:00:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/login.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 3
+[27-Jun-2025 23:00:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/login.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/login.php on line 3
+[28-Jun-2025 01:33:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mundol1/public_html/process_checkout.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/process_checkout.php on line 24
+[28-Jun-2025 02:00:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mundol1/public_html/order_history.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/order_history.php on line 15
+[28-Jun-2025 02:01:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mundol1/public_html/order_history.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/order_history.php on line 15
+[28-Jun-2025 02:02:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mundol1/public_html/order_history.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/order_history.php on line 15
+[28-Jun-2025 21:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/mundol1/public_html/employee_all_orders.php on line 62
+[28-Jun-2025 21:16:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/mundol1/public_html/employee_all_orders.php on line 62
+[29-Jun-2025 05:35:49 UTC] PHP Notice:  Undefined variable: name in /home/mundol1/public_html/process_checkout.php on line 73
+[29-Jun-2025 05:36:57 UTC] PHP Notice:  Undefined variable: product in /home/mundol1/public_html/process_checkout.php on line 73
+[29-Jun-2025 05:40:57 UTC] PHP Notice:  Undefined variable: name in /home/mundol1/public_html/process_checkout.php on line 73
+[29-Jun-2025 05:41:12 UTC] PHP Notice:  Undefined variable: name in /home/mundol1/public_html/process_checkout.php on line 73
+[29-Jun-2025 06:25:54 UTC] PHP Notice:  Undefined variable: row in /home/mundol1/public_html/process_checkout.php on line 73
+[29-Jun-2025 06:28:59 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/mundol1/public_html/process_checkout.php on line 76
+[29-Jun-2025 06:30:31 UTC] PHP Notice:  Array to string conversion in /home/mundol1/public_html/process_checkout.php on line 73
+[29-Jun-2025 06:30:35 UTC] PHP Notice:  Array to string conversion in /home/mundol1/public_html/process_checkout.php on line 73
+[29-Jun-2025 06:31:31 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/mundol1/public_html/process_checkout.php on line 73
+[29-Jun-2025 06:31:47 UTC] PHP Parse error:  syntax error, unexpected '$item' (T_VARIABLE), expecting ',' or ';' in /home/mundol1/public_html/process_checkout.php on line 73
+[29-Jun-2025 06:31:59 UTC] PHP Parse error:  syntax error, unexpected '$item' (T_VARIABLE), expecting ',' or ';' in /home/mundol1/public_html/process_checkout.php on line 73
+[29-Jun-2025 06:32:05 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/mundol1/public_html/process_checkout.php on line 74
+[29-Jun-2025 06:32:10 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/mundol1/public_html/process_checkout.php on line 74
+[29-Jun-2025 06:32:22 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/mundol1/public_html/process_checkout.php on line 74
+[29-Jun-2025 20:18:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/insert_product_form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 5
+[29-Jun-2025 20:18:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/insert_product_form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 5
+[29-Jun-2025 20:19:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/insert_product_form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 5
+[29-Jun-2025 20:19:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/insert_product_form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 5
+[29-Jun-2025 20:23:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/insert_product_form.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 7
+[29-Jun-2025 20:26:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 20:27:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 20:32:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 20:32:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 20:32:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 20:32:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 20:47:22 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 20:47:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 20:47:25 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 20:47:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 20:47:46 UTC] PHP Warning:  require_once(insert_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 20:47:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'insert_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 21:03:25 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 21:03:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 21:07:19 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 21:07:19 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 21:11:43 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 21:11:43 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 21:15:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mundol1/public_html/login.php on line 63
+[29-Jun-2025 21:15:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mundol1/public_html/login.php on line 63
+[29-Jun-2025 21:33:19 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 21:33:19 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 21:33:29 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 21:33:29 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 21:33:59 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 21:33:59 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 21:36:07 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 6
+[29-Jun-2025 21:36:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 6
+[29-Jun-2025 21:36:10 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 6
+[29-Jun-2025 21:36:10 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 6
+[29-Jun-2025 21:39:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mundol1/public_html/categories.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/categories.php on line 9
+[29-Jun-2025 21:39:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mundol1/public_html/products.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/products.php on line 8
+[29-Jun-2025 21:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mundol1/public_html/products.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/products.php on line 8
+[29-Jun-2025 21:41:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mundol1/public_html/products.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/products.php on line 8
+[29-Jun-2025 21:41:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mundol1/public_html/products.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/products.php on line 8
+[29-Jun-2025 21:41:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mundol1/public_html/categories.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/categories.php on line 9
+[29-Jun-2025 21:56:46 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 21:56:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 21:58:20 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 21:58:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 22:00:36 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 22:00:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 22:07:59 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 22:07:59 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 22:10:33 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 22:10:33 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 22:11:45 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 22:11:45 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 22:13:53 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 22:13:53 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 22:19:59 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 22:19:59 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 22:22:54 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 22:22:54 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 22:25:02 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 22:25:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 22:26:34 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 22:26:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 22:32:58 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 22:32:58 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 22:34:19 UTC] PHP Fatal error:  Cannot redeclare check_admin_user() (previously declared in /home/mundol1/public_html/insert_product_form.php:8) in /home/mundol1/public_html/product_functions.php on line 56
+[29-Jun-2025 22:34:59 UTC] PHP Fatal error:  Cannot redeclare check_admin_user() (previously declared in /home/mundol1/public_html/insert_product_form.php:8) in /home/mundol1/public_html/product_functions.php on line 56
+[29-Jun-2025 22:39:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mundol1/public_html/product_functions.php on line 60
+[29-Jun-2025 22:40:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mundol1/public_html/insert_product_form.php on line 5
+[29-Jun-2025 22:45:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mundol1/public_html/insert_product_form.php on line 5
+[29-Jun-2025 22:49:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mundol1/public_html/insert_product_form.php on line 5
+[29-Jun-2025 22:59:41 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mundol1/public_html/process_checkout.php on line 74
+[29-Jun-2025 23:02:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mundol1/public_html/insert_product_form.php on line 5
+[29-Jun-2025 23:03:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mundol1/public_html/insert_product_form.php on line 5
+[29-Jun-2025 23:03:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mundol1/public_html/insert_product_form.php on line 5
+[29-Jun-2025 23:04:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mundol1/public_html/insert_product_form.php on line 5
+[29-Jun-2025 23:04:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mundol1/public_html/insert_product_form.php on line 5
+[29-Jun-2025 23:06:45 UTC] PHP Warning:  require_once(product_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 23:06:45 UTC] PHP Fatal error:  require_once(): Failed opening required 'product_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 5
+[29-Jun-2025 23:16:29 UTC] PHP Notice:  Undefined index: cart in /home/mundol1/public_html/receipt.php on line 10
+[29-Jun-2025 23:16:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mundol1/public_html/receipt.php on line 10
+[29-Jun-2025 23:17:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mundol1/public_html/receipt.php on line 2
+[29-Jun-2025 23:21:31 UTC] PHP Warning:  require_once(prodcut_function.php): failed to open stream: No such file or directory in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 23:21:31 UTC] PHP Fatal error:  require_once(): Failed opening required 'prodcut_function.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mundol1/public_html/delete_product.php on line 3
+[29-Jun-2025 23:21:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mundol1/public_html/delete_product.php on line 4
+[29-Jun-2025 23:21:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/delete_product.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/delete_product.php on line 6
+[29-Jun-2025 23:22:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mundol1/public_html/delete_product.php on line 4
+[29-Jun-2025 23:22:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/delete_product.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/delete_product.php on line 6
+[29-Jun-2025 23:22:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mundol1/public_html/delete_product.php on line 4
+[29-Jun-2025 23:22:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/delete_product.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/delete_product.php on line 6
+[29-Jun-2025 23:24:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mundol1/public_html/signup.php on line 12
+[29-Jun-2025 23:24:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mundol1/public_html/delete_product.php on line 4
+[29-Jun-2025 23:24:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/delete_product.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/delete_product.php on line 6
+[29-Jun-2025 23:27:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mundol1/public_html/delete_product.php on line 4
+[29-Jun-2025 23:27:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/delete_product.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/delete_product.php on line 6
+[29-Jun-2025 23:27:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mundol1/public_html/delete_product.php on line 4
+[29-Jun-2025 23:27:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/delete_product.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/delete_product.php on line 6
+[29-Jun-2025 23:28:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:29:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/delete_product.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/delete_product.php on line 6
+[29-Jun-2025 23:29:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/delete_product.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/delete_product.php on line 6
+[29-Jun-2025 23:29:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/delete_product.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/delete_product.php on line 6
+[29-Jun-2025 23:29:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/delete_product.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/delete_product.php on line 6
+[29-Jun-2025 23:29:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/delete_product.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/delete_product.php on line 6
+[29-Jun-2025 23:29:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/delete_product.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/delete_product.php on line 6
+[29-Jun-2025 23:29:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/delete_product.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/delete_product.php on line 6
+[29-Jun-2025 23:29:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 /home/mundol1/public_html/delete_product.php(3): require_once()
+#1 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:29:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 /home/mundol1/public_html/delete_product.php(3): require_once()
+#1 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:30:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 /home/mundol1/public_html/delete_product.php(3): require_once()
+#1 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:31:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:31:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:31:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/delete_product.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/delete_product.php on line 6
+[29-Jun-2025 23:31:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/delete_product.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/delete_product.php on line 6
+[29-Jun-2025 23:32:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_html_header() in /home/mundol1/public_html/delete_product.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/delete_product.php on line 6
+[29-Jun-2025 23:33:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:33:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:34:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:34:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:34:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:34:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:34:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:34:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:35:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:35:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:35:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:36:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:36:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:36:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:37:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:38:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:39:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:39:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:40:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:40:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:40:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_admin_user() in /home/mundol1/public_html/insert_product_form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/insert_product_form.php on line 9
+[29-Jun-2025 23:47:14 UTC] PHP Notice:  Undefined index: cart in /home/mundol1/public_html/receipt.php on line 13
+[29-Jun-2025 23:47:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mundol1/public_html/receipt.php on line 13
+[29-Jun-2025 23:53:29 UTC] PHP Notice:  Undefined index: cart in /home/mundol1/public_html/receipt.php on line 13
+[29-Jun-2025 23:53:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mundol1/public_html/receipt.php on line 13
+[29-Jun-2025 23:58:04 UTC] PHP Parse error:  syntax error, unexpected ''order_history.php'' (T_CONSTANT_ENCAPSED_STRING) in /home/mundol1/public_html/receipt.php on line 1
+[29-Jun-2025 23:59:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mundol1/public_html/checkout.php on line 2
+[30-Jun-2025 00:03:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mundol1/public_html/checkout.php on line 2
+[30-Jun-2025 00:10:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mundol1/public_html/cart.php on line 2
+[30-Jun-2025 00:10:39 UTC] PHP Notice:  Undefined variable: product in /home/mundol1/public_html/receipt.php on line 9
+[30-Jun-2025 00:10:39 UTC] PHP Notice:  Undefined variable: product in /home/mundol1/public_html/receipt.php on line 10
+[30-Jun-2025 00:12:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mundol1/public_html/receipt.php on line 6
+[30-Jun-2025 00:12:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mundol1/public_html/receipt.php on line 6
+[30-Jun-2025 00:12:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mundol1/public_html/receipt.php on line 6
+[30-Jun-2025 00:21:42 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mundol1/public_html/process_checkout.php on line 75
+[30-Jun-2025 00:22:46 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mundol1/public_html/process_checkout.php on line 75
+[30-Jun-2025 01:07:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function required_once() in /home/mundol1/public_html/update_quantity.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/update_quantity.php on line 2
+[30-Jun-2025 01:07:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function required_once() in /home/mundol1/public_html/update_quantity.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/update_quantity.php on line 2
+[30-Jun-2025 01:12:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'mundo11'@'localhost' (using password: YES) in /home/mundol1/public_html/update_quantity.php on line 15
+[30-Jun-2025 01:13:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mundol1/public_html/update_quantity.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/update_quantity.php on line 22
+[30-Jun-2025 01:16:32 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE), expecting ',' or ';' in /home/mundol1/public_html/dashboard_employee.php on line 44
+[30-Jun-2025 01:20:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mundol1/public_html/update_quantity.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/update_quantity.php on line 25
+[30-Jun-2025 01:25:01 UTC] PHP Warning:  Use of undefined constant stmt - assumed 'stmt' (this will throw an Error in a future version of PHP) in /home/mundol1/public_html/update_quantity.php on line 25
+[30-Jun-2025 01:25:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mundol1/public_html/update_quantity.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/update_quantity.php on line 28
+[30-Jun-2025 01:25:24 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/mundol1/public_html/employee_all_orders.php on line 11
+[30-Jun-2025 01:25:27 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/mundol1/public_html/employee_all_orders.php on line 11
+[30-Jun-2025 01:27:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mundol1/public_html/insert_product_form.php on line 28
+[30-Jun-2025 01:27:13 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mundol1/public_html/insert_product_form.php on line 28
+[30-Jun-2025 01:27:14 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mundol1/public_html/insert_product_form.php on line 28
+[30-Jun-2025 01:27:32 UTC] PHP Warning:  Use of undefined constant stmt - assumed 'stmt' (this will throw an Error in a future version of PHP) in /home/mundol1/public_html/update_quantity.php on line 25
+[30-Jun-2025 01:27:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mundol1/public_html/update_quantity.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/mundol1/public_html/update_quantity.php on line 28
+[30-Jun-2025 02:20:22 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mundol1/public_html/insert_product_form.php on line 28
+[30-Jun-2025 02:20:24 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mundol1/public_html/insert_product_form.php on line 28
+[30-Jun-2025 02:20:27 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mundol1/public_html/insert_product_form.php on line 28
+[30-Jun-2025 02:20:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mundol1/public_html/insert_product_form.php on line 28
+[30-Jun-2025 02:21:25 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mundol1/public_html/insert_product_form.php on line 28
+[30-Jun-2025 02:21:27 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mundol1/public_html/insert_product_form.php on line 28
+[30-Jun-2025 02:25:16 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mundol1/public_html/insert_product_form.php on line 28
+[30-Jun-2025 02:36:03 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mundol1/public_html/insert_product_form.php on line 28
+[30-Jun-2025 02:36:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mundol1/public_html/insert_product_form.php on line 28
+[30-Jun-2025 02:39:09 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mundol1/public_html/insert_product_form.php on line 28
+[30-Jun-2025 02:39:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mundol1/public_html/insert_product_form.php on line 28
+[30-Jun-2025 02:39:37 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mundol1/public_html/insert_product_form.php on line 28
+[30-Jun-2025 02:42:57 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mundol1/public_html/insert_product_form.php on line 28
+[30-Jun-2025 03:48:12 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:48:12 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:48:43 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:48:43 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:48:43 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/dashboard_employee.php on line 2
+[30-Jun-2025 03:48:43 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/dashboard_employee.php on line 2
+[30-Jun-2025 03:48:43 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:48:43 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:49:03 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:49:03 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:49:03 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/dashboard_employee.php on line 2
+[30-Jun-2025 03:49:03 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/dashboard_employee.php on line 2
+[30-Jun-2025 03:49:03 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:49:03 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:51:31 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:51:31 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:51:31 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/dashboard_employee.php on line 2
+[30-Jun-2025 03:51:31 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/dashboard_employee.php on line 2
+[30-Jun-2025 03:51:31 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:51:31 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:52:24 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:52:24 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:53:01 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:53:01 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:53:01 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/dashboard_employee.php on line 2
+[30-Jun-2025 03:53:01 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/dashboard_employee.php on line 2
+[30-Jun-2025 03:53:01 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:53:01 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:53:23 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:53:23 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:54:07 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:54:07 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:54:07 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/dashboard_employee.php on line 2
+[30-Jun-2025 03:54:07 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/dashboard_employee.php on line 2
+[30-Jun-2025 03:54:07 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:54:07 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:54:21 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/shop.php on line 2
+[30-Jun-2025 03:54:21 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/shop.php on line 2
+[30-Jun-2025 03:54:31 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:54:31 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:54:59 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:54:59 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:54:59 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/dashboard_employee.php on line 2
+[30-Jun-2025 03:54:59 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/dashboard_employee.php on line 2
+[30-Jun-2025 03:54:59 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_5c32017c21f6830b58238a80c8fe6161, O_RDWR) failed: Permission denied (13) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 03:54:59 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/mundol1/public_html/login.php on line 2
+[30-Jun-2025 05:28:10 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mundol1/public_html/insert_product_form.php on line 14
+[30-Jun-2025 06:24:49 UTC] PHP Notice:  Undefined variable: inventory_quantity in /home/mundol1/public_html/insert_product.php on line 28
+[30-Jun-2025 06:24:49 UTC] PHP Notice:  Undefined variable: inventory_quantity in /home/mundol1/public_html/insert_product.php on line 34
+[30-Jun-2025 06:25:02 UTC] PHP Notice:  Undefined variable: inventory_quantity in /home/mundol1/public_html/insert_product.php on line 28
+[30-Jun-2025 06:25:02 UTC] PHP Notice:  Undefined variable: inventory_quantity in /home/mundol1/public_html/insert_product.php on line 34
+[30-Jun-2025 06:25:16 UTC] PHP Notice:  Undefined variable: inventory_quantity in /home/mundol1/public_html/insert_product.php on line 28
+[30-Jun-2025 06:25:16 UTC] PHP Notice:  Undefined variable: inventory_quantity in /home/mundol1/public_html/insert_product.php on line 34
+[30-Jun-2025 06:25:32 UTC] PHP Notice:  Undefined variable: inventory_quantity in /home/mundol1/public_html/insert_product.php on line 34
